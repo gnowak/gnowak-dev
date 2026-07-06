@@ -1,0 +1,8 @@
+primary_cta:
+  label: "Start a project"
+  href: "mailto:hello@gnowak.dev"
+  audience: freelance
+secondary_ctas: []
+contact_endpoint:
+  type: email
+  target: hello@gnowak.dev
