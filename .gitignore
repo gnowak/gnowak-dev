@@ -45,3 +45,6 @@ coverage/
 
 # Internal planning artifacts (kept on disk, not in the public repo)
 .planning/
+
+# Agent session logs (local-only, not in the public repo)
+sessions/
