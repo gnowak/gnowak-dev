@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="MDway hero placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g font-family="ui-sans-serif, system-ui, sans-serif" fill="#e2e8f0" text-anchor="middle">
+    <text x="600" y="290" font-size="96" font-weight="700">MDway</text>
+    <text x="600" y="360" font-size="28" fill="#94a3b8">hero placeholder</text>
+    <text x="600" y="400" font-size="18" fill="#64748b">replace with a real screenshot at /public/media/mdway/hero.svg</text>
+  </g>
+</svg>

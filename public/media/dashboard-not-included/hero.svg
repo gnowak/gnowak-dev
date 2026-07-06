@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Dashboard Not Included hero placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#082f49"/>
+      <stop offset="100%" stop-color="#0c4a6e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g font-family="ui-sans-serif, system-ui, sans-serif" fill="#e0f2fe" text-anchor="middle">
+    <text x="600" y="270" font-size="72" font-weight="700">Dashboard</text>
+    <text x="600" y="350" font-size="72" font-weight="700">Not Included</text>
+    <text x="600" y="420" font-size="24" fill="#7dd3fc">hero placeholder</text>
+    <text x="600" y="460" font-size="16" fill="#38bdf8">replace with a real screenshot at /public/media/dashboard-not-included/hero.svg</text>
+  </g>
+</svg>
